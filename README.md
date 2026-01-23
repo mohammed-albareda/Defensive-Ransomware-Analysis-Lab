@@ -76,3 +76,13 @@ This project is a simple simulation of a ransomware attack using Python. It cons
 ## 📜 License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## ✍️ Engineer Development
+Mohammed Ameen Saleh Albareda
+Advanced AI Solutions Specialist | Cybersecurity Expert  
+
+[GitHub](https://github.com/775503801) | [LinkedIn](https://www.linkedin.com/in/Mohammed-Albareda) | [Instagram](https://www.instagram.com/mhmd.lbrdh?igsh=a2J4aXVidHpsb3Yw) | [Facebook](https://www.facebook.com/share/18Gh1EKFnP/)  
+
+📧 mohmmedas2004@gmail.com | 📱 +967775503801
+
+*Designing innovative AI solutions while securing digital systems to drive smart and safe technology.*
