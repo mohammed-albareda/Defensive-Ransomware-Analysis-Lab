@@ -1,4 +1,4 @@
-# Python C2 & Ransomware Simulation
+# Defensive-Ransomware-Analysis-Lab
 
 ![Purpose](https://img.shields.io/badge/Purpose-Educational%20Only-red.svg )
 
